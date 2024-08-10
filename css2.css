@@ -1,0 +1,39 @@
+body{
+	
+	background: rgb(182, 181, 109);
+	background-image:url(m2.jpg);
+	width: 100%;
+}
+
+.login{
+	width: 400;
+	margin:auto;
+	padding: 10px;
+}
+.log{
+	width:35%;
+	margin-left:25%;
+
+	background-image:url(m.jpg);
+	padding: 15px;
+}
+form input{
+	width: 100%;
+	display: block;
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+button{
+	width: 100%;
+	margin-top:20px;
+	padding: 10px;
+	background: rgb(191, 195, 196);
+	color: #fff;
+	font-size: .95em;
+	cursor: pointer;
+}
+button:hover{
+	background: rgb(61, 52, 78);
+}
